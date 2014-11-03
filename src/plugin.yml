@@ -1,0 +1,68 @@
+name: McInfected
+description: COD Infection for Minecraft
+main: com.bimmr.mcinfected.McInfected
+version: 0.1.7a
+author: Bimmr6696
+
+softdepend: [DisguiseCraft, iDisguise, LibsDisguises, Factions, mcMMO, Crackshot, Vault]
+
+# #################################################
+
+commands:
+
+  McInfected:
+    usage: '/<command>'
+    description: McInfected''s basic command
+    aliases: [mc, infected, inf, mcinf, mcinfect]
+
+# #################################################
+
+permissions:
+  McInfected.*:
+    default: op
+    children:
+      McInfected.Default: true
+      McInfected.Admin: true
+  
+# Default Permissions
+  McInfected.Default:
+    default: true
+    children:
+      McInfected.Leave: true
+      McInfected.Arenas: true
+      McInfected.Lobbys: true
+      McInfected.Stats: true
+      McInfected.Help: true
+      McInfected.Vote: true   
+      
+# Remove all voting bonus' from OP
+  McInfected.Vote.x5:
+    default: false
+  McInfected.Vote.x4:
+    default: false
+  McInfected.Vote.x3:
+    default: false
+  McInfected.Vote.x2:
+    default: false
+
+# Remove all scoring bonus' from OP
+  McInfected.Score.x5:
+    default: false
+  McInfected.Score.x4:
+    default: false
+  McInfected.Score.x3:
+    default: false
+  McInfected.Score.x2:
+    default: false
+
+
+# Remove all lives bonus' from OP
+  McInfected.Lives.x5:
+    default: false
+  McInfected.Lives.x4:
+    default: false
+  McInfected.Lives.x3:
+    default: false
+  McInfected.Lives.x2:
+    default: false
+      
