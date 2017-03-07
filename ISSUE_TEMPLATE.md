@@ -1,7 +1,7 @@
 <!--- Provide a general summary of the issue in the Title above -->
 <!--- Unless you're going to use a different format, not using this format will result in your ticket being removed -->
 
-## What's currently Happening
+## What's Currently Happening
 <!--- Tell me what happens instead of the expected behavior -->
 
 
