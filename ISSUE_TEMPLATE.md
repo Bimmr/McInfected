@@ -17,7 +17,9 @@
 
 ----
 ## Error Code
-<!--- Please put the error in some [CODE][/CODE] tags -->
+[CODE]
+<!--- Please put the error in the [CODE][/CODE] tags -->  
+[/CODE]
 
 
 ----
