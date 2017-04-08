@@ -1,3 +1,5 @@
+<p style="font-size='10'">There is no code in this repository because this is a paid plugin</p>
+
 <h1>McInfected</h1>
 <img src="https://proxy.spigotmc.org/b7a36a8b03ecc8631b098f50a6d12a83607cc4d5?url=http%3A%2F%2Fi.imgur.com%2FQAeuoTO.png">
 
