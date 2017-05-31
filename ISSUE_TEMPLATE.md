@@ -28,4 +28,4 @@
 * Spigot Version used:
 * McInfected Version:
 * BimmCore Version:
-* Any Addons?(Include their versions)
+* Any Addons?(Include their versions, and DO NOT say newest
