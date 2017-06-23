@@ -25,7 +25,8 @@
 
 ----
 ## Your Environment
+<!--- If you say latest, or newest your ticket will be deleted. No Exceptions -->
 * Spigot Version used:
 * McInfected Version:
 * BimmCore Version:
-* Any Addons?(Include their versions, and DO NOT say newest
+* Any Addons?(Include their versions)
