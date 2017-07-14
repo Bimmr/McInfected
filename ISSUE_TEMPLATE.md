@@ -1,5 +1,6 @@
 <!--- Provide a general summary of the issue in the Title above -->
 <!--- Unless you're going to use a different format, not using this format will result in your ticket being removed -->
+<!--- You ticket WILL be removed if: you don't fill in the information or you say newest for a version -->
 
 ## What's Currently Happening
 <!--- Tell me what happens instead of the expected behavior -->
